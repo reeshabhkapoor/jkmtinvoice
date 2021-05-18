@@ -1,0 +1,105 @@
+
+
+.content{
+    margin:5px;
+}
+
+.topData{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    
+}
+
+.leftdata {
+    font-size: 12px;
+    margin-right: 25px;
+    flex: 1;
+}
+
+.rightData{
+margin: 10px;
+font-size: 12px;
+text-align: end;
+}
+
+.hotelname{
+    border: 2px solid black;
+    padding-left: 5px;
+}
+
+.tabrow{
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.label{
+    font-weight: bold;
+    margin-right: 3px;
+    text-decoration: underline;
+}
+
+.totalrow{
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.totalrow p{
+    flex:1
+}
+
+.amountlabel{
+    font-weight: 700;
+}
+
+.rightamount{
+    flex:1;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.finalAmount{
+    flex:1;
+    text-align: right;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.panrow{
+    
+    font-weight: bold;
+
+}
+
+.closurerow{
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+}
+
+.noterow{
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+}
+
+.closurerow p{
+    flex:1;
+}
+
+.client_records{
+    width: 100%;
+    border: 1.5px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1.2px solid black;
+    border-collapse: collapse;
+  }

@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Noto+Serif&family=Open+Sans&display=swap');
+
+.Company{
+    text-align: center;
+    color: darkblue;
+    font-family: 'Noto Serif', serif;
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+.commission{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 0;
+
+}
+
+.header_bottom {
+    background-color: #0066b2;
+    width: 80%;
+    margin: auto;
+    height: 2px;
+    top: 0;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* body {
+    border: darkorchid;
+    height: 842px;
+    width: 595px;
+
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+} */
+
+.system {
+    width:794px; 
+    height:1050px;
+    font-size: 13px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    text-align: center;
+    align-items: center;
+    
+    margin-top: auto;
+    border-top: 5px solid maroon;
+}
+
+.mainContent{
+    border: 1px solid black;
+    margin-top: 0;
+}

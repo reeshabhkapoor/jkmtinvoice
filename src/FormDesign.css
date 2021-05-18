@@ -1,0 +1,41 @@
+.designForm {
+    margin:20px;
+border: 1px solid maroon;
+border-radius: 20px;
+}
+
+.centerDetailsLabel{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.addClientButton{
+    text-align: center;
+    margin: 20px;
+    justify-content: center;
+}
+
+.designClientData{
+    display: flex;
+    flex-direction: row;
+}
+
+.clientRecords{    
+    /* margin: 0 auto 0 auto; */
+    margin: 15px;
+}
+
+.clientRecords p{
+    font-weight: bold;
+}
+
+.clientRecordsData{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.tableClient{
+    margin: 10px;
+}
